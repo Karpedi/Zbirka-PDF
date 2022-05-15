@@ -10,7 +10,7 @@ uporabljamo v primerih daljinskih vklopov, vklopov porabnikov večjih moči, v p
 
 # KRMILJA
 Krmilje je tehniški sistem z vhodnimi in izhodnimi spremenljivkami in zakonitostjo, ki funkcijsko povezuje izhodne spremenljivke z vhodnimi
-- Dokument: *Krmmilja-1.pdf*
+- Dokument: *Krmilja-1.pdf*
 
 # OSNOVNI GRADNIKI KRMILIJ
 Osnovni gradniki krmilij so členi, ki jih lahko izvedemo diskretno ali z releji ali z integriranimi vezji ali programsko. Poznavanje lastnosti teh gradnikov nam omogoča povezovanje le-teh v sklope s katerimi realiziramo bolj kompleksno krmilje. Te gradnike bomo obravnavali s pomočjo krmilnega, kontaktnega , funkcijskega načrta in nabora ukazov. Seveda jih ni vedno smiselno predstavljati na vse načine.
